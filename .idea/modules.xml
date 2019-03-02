@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-test.iml" filepath="$PROJECT_DIR$/maven-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/maventest.iml" filepath="$PROJECT_DIR$/maventest.iml" />
     </modules>
   </component>

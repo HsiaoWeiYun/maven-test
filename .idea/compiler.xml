@@ -13,6 +13,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="api" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="maven-test" target="1.8" />
       <module name="maventest" target="1.8" />
     </bytecodeTargetLevel>
   </component>

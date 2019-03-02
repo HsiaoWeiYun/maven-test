@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b0a74cb-327a-4b5e-8b94-d197f01c64f2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/maven-test.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/maventest.iml" afterPath="$PROJECT_DIR$/maventest.iml" />
-      <change beforePath="$PROJECT_DIR$/release.properties" afterPath="" />
-    </list>
+    <list default="true" id="0b0a74cb-327a-4b5e-8b94-d197f01c64f2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -400,12 +393,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551509244982</updated>
       <workItem from="1551509248987" duration="1684000" />
-      <workItem from="1551511357718" duration="4175000" />
+      <workItem from="1551511357718" duration="4231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5859000" />
+    <option name="totallyTimeSpent" value="5915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
